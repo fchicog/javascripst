@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch fibonacci",
+            "request": "launch",
+            "mainClass": "clase1.fibonacci",
+            "projectName": "Java Scripts_fc7e2d80"
+        },
+        {
+            "type": "java",
+            "name": "Launch nomSalario",
+            "request": "launch",
+            "mainClass": "clase1.nomSalario",
+            "projectName": "Java Scripts_fc7e2d80"
+        },
+        {
+            "type": "java",
+            "name": "Launch juegoPiedra",
+            "request": "launch",
+            "mainClass": "clase1.juegoPiedra",
+            "projectName": "Java Scripts_fc7e2d80"
+        },
+        {
+            "type": "java",
+            "name": "Launch primoNum",
+            "request": "launch",
+            "mainClass": "clase1.primoNum",
+            "projectName": "Java Scripts_fc7e2d80"
+        },
+        {
+            "type": "java",
+            "name": "Launch pesoIdeal",
+            "request": "launch",
+            "mainClass": "clase1.pesoIdeal",
+            "projectName": "Java Scripts_fc7e2d80"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch circulo",
+            "request": "launch",
+            "mainClass": "circulo",
+            "projectName": "Java Scripts_fc7e2d80"
+        },
+        {
+            "type": "java",
+            "name": "Launch calcularSueldo",
+            "request": "launch",
+            "mainClass": "clase1.calcularSueldo",
+            "projectName": "Java Scripts_fc7e2d80"
+        },
+        {
+            "type": "java",
+            "name": "Launch leerD",
+            "request": "launch",
+            "mainClass": "clase1.leerD",
+            "projectName": "Java Scripts_fc7e2d80"
+        },
+        {
+            "type": "java",
+            "name": "Launch leerDatos",
+            "request": "launch",
+            "mainClass": "clase1.leerDatos",
+            "projectName": "Java Scripts_fc7e2d80"
+        },
+        {
+            "type": "java",
+            "name": "Launch numAleatorio",
+            "request": "launch",
+            "mainClass": "clase1.numAleatorio",
+            "projectName": "Java Scripts_fc7e2d80"
+        },
+        {
+            "type": "java",
+            "name": "Launch operacionNum",
+            "request": "launch",
+            "mainClass": "clase1.operacionNum",
+            "projectName": "Java Scripts_fc7e2d80"
+        },
+        {
+            "type": "java",
+            "name": "Launch promNotas",
+            "request": "launch",
+            "mainClass": "clase1.promNotas",
+            "projectName": "Java Scripts_fc7e2d80"
+        },
+        {
+            "type": "java",
+            "name": "Launch tablaMult",
+            "request": "launch",
+            "mainClass": "clase1.tablaMult",
+            "projectName": "Java Scripts_fc7e2d80"
+        }
+    ]
+}
