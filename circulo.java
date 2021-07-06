@@ -1,6 +1,6 @@
 
 import java.lang.Math;
-/* Este programa calcula el perimetro de una circunferencia */
+/* Este programa calcula el perimetro de una circunferencia test */
 public class circulo{
     public static void main(String[] args) {
         int a=100;
